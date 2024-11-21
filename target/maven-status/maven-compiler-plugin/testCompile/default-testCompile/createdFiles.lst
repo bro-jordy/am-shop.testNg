@@ -1,0 +1,7 @@
+steps/CommonSteps.class
+steps/shopplus/DetailSteps.class
+runners/BaseTestRunner.class
+steps/shopplus/DetailPesananSteps.class
+steps/shopplus/AlamatSteps.class
+steps/Hooks.class
+runners/ShopPlusTestRunner.class
